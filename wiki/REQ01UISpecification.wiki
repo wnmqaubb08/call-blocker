@@ -1,23 +1,23 @@
 #labels 1stpage,prashanta,01
 1 st Screen
 ---------------------------------
-call block (pattern)
-SMS block
-backup
-private area
-blocked calls and sms details.
-settings
+call block (pattern)<br>
+SMS block<br>
+backup<br>
+private area<br>
+blocked calls and sms details.<br>
+settings<br>
 
 
----------------------------------
-call block
----------------------------------
-Add new Number to Block list
-Remove a number from a block list
-Add a Group of Number from block list
-Remove a group of number from block list
-List all block numbers.
-     |
-     |
+--------------------------------<br>
+call block<br>
+---------------------------------<br>
+Add new Number to Block list<br>
+Remove a number from a block list<br>
+Add a Group of Number from block list<br>
+Remove a group of number from block list<br>
+List all block numbers.<br>
+     |<br>
+     |<br>
       -----------> Every number with all details of call block      logs.
 List of all non block numbers

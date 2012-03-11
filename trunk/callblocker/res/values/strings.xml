@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="hello">Hello World, CallblockerActivity!</string>
+    <string name="app_name">Call-blocker</string>
+    <string name="block_call_btn">Block Call</string>
+    <string name="block_sms_btn">Block SMS</string>
+
+</resources>

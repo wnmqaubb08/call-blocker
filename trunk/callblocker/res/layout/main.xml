@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:orientation="vertical" >
+
+    <RelativeLayout
+        android:id="@+id/relativeLayout1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_weight="0.33" >
+
+        <Button
+            android:id="@+id/blockCallBtn"
+            android:layout_width="105dp"
+            android:layout_height="wrap_content"
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentTop="true"
+            android:layout_marginLeft="50dp"
+            android:layout_marginTop="81dp"
+            android:text="@string/block_call_btn" />
+
+        <Button
+            android:id="@+id/blockSMSBtn"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignBaseline="@+id/blockCallBtn"
+            android:layout_alignBottom="@+id/blockCallBtn"
+            android:layout_marginLeft="20dp"
+            android:layout_toRightOf="@+id/blockCallBtn"
+            android:text="@string/block_sms_btn" />
+
+    </RelativeLayout>
+
+</LinearLayout>
